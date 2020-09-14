@@ -1,0 +1,20 @@
+.centerPane{
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.successToast{
+    background-color: green;
+    font-weight: bold;
+}
+
+.failToast{
+    background-color: red;
+    font-weight: bold;
+}
+
+.infoToast{
+    background-color: #89c2e9;
+    font-weight: bold;
+}
+
